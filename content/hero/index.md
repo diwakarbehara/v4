@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
+name: 'Diwakar Behara'
 subtitle: 'I build things for the web.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+I'm a Full Stack Developer & DevOps Engineer based in India specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
